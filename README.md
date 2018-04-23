@@ -1,4 +1,4 @@
-# Phoenix Amazon
+# Phoenix-olshop
 
 ## Requirements
 You need to have **Elixir v1.3** and **PostgreSQL** installed.
@@ -13,4 +13,4 @@ You need to have **Elixir v1.3** and **PostgreSQL** installed.
 
 Now you can visit [`localhost:3000`](http://localhost:3000) from your browser.
 
-![`product`](http://suman.io/images/apple.resized.png)
+
